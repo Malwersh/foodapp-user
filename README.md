@@ -92,4 +92,4 @@ flutter build ios --release
 
 **GitHub Repository**: https://github.com/Malwersh/foodapp-user
 
-**Last Updated**: December 2024
+**Last Updated**: June 2025
